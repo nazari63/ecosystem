@@ -112,3 +112,4 @@ You can read our contribution guide [here](./CONTRIBUTING.md) to understand bett
 ## License
 
 All other files within this repository are licensed under the [MIT License](https://github.com/ethereum-optimism/ecosystem/blob/main/LICENSE) unless stated otherwise.
+This project is a demonstration of blockchain technology and smart contract integration.
